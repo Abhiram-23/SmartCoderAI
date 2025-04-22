@@ -9,6 +9,8 @@ SmartCoder AI is a powerful coding assistant that uses LLMs like Gemini, ChatGPT
 
 Built with ❤️ using [Streamlit](https://streamlit.io/) and [OpenAI-compatible SDKs](https://pypi.org/project/openai/).
 
+🔗 **Live App**: [https://smartcoder-ai.streamlit.app](https://smartcoder-ai.streamlit.app)
+
 ---
 
 ## 🔧 Features
@@ -21,12 +23,19 @@ Built with ❤️ using [Streamlit](https://streamlit.io/) and [OpenAI-compatibl
 
 ---
 
+## 📸 Screenshot
+
+![SmartCoder AI Screenshot](image.png)
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git https://github.com/Abhiram-23/SmartCoderAI.git
+git clone https://github.com/Abhiram-23/SmartCoderAI.git
+cd SmartCoderAI
 ```
 
 ```
