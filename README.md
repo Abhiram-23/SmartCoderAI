@@ -28,3 +28,13 @@ Built with ❤️ using [Streamlit](https://streamlit.io/) and [OpenAI-compatibl
 ```bash
 git https://github.com/Abhiram-23/SmartCoderAI.git
 ```
+```
+pip install -r requirements.txt
+```
+
+```
+GEMINI_API_KEY=your_gemini_api_key
+```
+```
+streamlit run app.py
+```
