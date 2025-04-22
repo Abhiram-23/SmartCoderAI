@@ -75,7 +75,7 @@ if "history" not in st.session_state:
     st.session_state.history = []
 
 # === Input Query ===
-query = st.text_area("💬 Enter your coding query", height=150)
+query = st.text_area("💬 Enter your coding query",placeholder="Write a Python code fro adding two numbers.", height=150)
 run_btn = st.button("🚀 Generate")
 
 # === Tool Definitions ===
